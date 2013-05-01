@@ -1,7 +1,8 @@
 ---
-title:About
+title: About
 ---
 # About
+
 ## Topics
 
 * github pages
